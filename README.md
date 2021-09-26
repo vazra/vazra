@@ -2,7 +2,7 @@
 
 ## I'm a Husband, Father, Developer, and Technologist !
 
-- 🔭 I’m currently working at [Mocioun](http://mocioun.com)
+- 🔭 I’m currently working at [Datafi Labs](http://datafilabs.com)
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
   <!-- - 🥅 2020 Goals: Contribute more to Open Source projects -->
